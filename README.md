@@ -16,10 +16,10 @@
 <summary><b>✨ GitHub Profile Stats</b></summary>
   <br/>
   <p align="left">
-    <a href="https://github.com/rafli-dewanto/github-readme-stats"><img alt="rafli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafli-dewanto&show_icons=true&count_private=true&theme=github_dark" height="192px"/></a>
+    <a href="https://github.com/rafli-dewanto/github-readme-stats"><img alt="rafli's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rafli-dewanto&show_icons=true&count_private=true&theme=react" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-dewanto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="rafli" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafli-dewanto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react" alt="rafli" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -28,9 +28,8 @@
   <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/rafli-dewanto"><img alt="rafli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafli-dewanto&custom_title=Rafli's%20Contribution%20Graph&theme=github_dark" /></a>
+   <a href="https://github.com/rafli-dewanto"><img alt="rafli's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rafli-dewanto&custom_title=Rafli's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
 </details>
 
 
