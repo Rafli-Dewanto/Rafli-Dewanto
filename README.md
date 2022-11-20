@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafli Dewanto</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🌱 I’m currently learning **data science & web development**
+- 🌱 I’m currently learning **Web development**
 
 - 📫 How to reach me **dewantorafli@gmail.com**
 
